@@ -14,6 +14,7 @@ The service and characteristic UUIDS are defined in render.js.  Ensure these mat
 1. Clone this repository
 1. Install dependencies with `npm install`
 1. Start the application with `npm start`
+1. Press the button
 
 
 
