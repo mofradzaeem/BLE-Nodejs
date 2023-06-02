@@ -4,14 +4,15 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "author": "",
   "license": "ISC",
-  "scripts": {
-    "start": "electron ."
-  },
   "devDependencies": {
     "electron": "^21.2.2"
+  },
+  "dependencies": {
+    "ble-host": "^1.0.3",
+    "noble": "^1.9.1"
   }
 }

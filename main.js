@@ -1,4 +1,4 @@
-const noble = require('noble');
+const noble = require('ble-host');
 const { app, BrowserWindow, ipcMain } = require('electron');
 const path = require('path');
 
